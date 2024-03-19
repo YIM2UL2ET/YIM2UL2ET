@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffaa69&height=200&animation=fadeIn&section=header&text=YIM2UL2ET&fontSize=70&fontColor=e4733e&fontAlignY=37" />✏️ Co
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffaa69&height=200&animation=fadeIn&section=header&text=YIM2UL2ET&fontSize=70&fontColor=e4733e&fontAlignY=37&desc=Algorithm,%20Computer%20Science%20and%20more..&descSize=25)" />
   
 ## Github Stats
-![YIM2UL2ET's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIM2UL2ET&show_icons=true&theme=default)
+![YIM2UL2ET's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIM2UL2ET&show_icons=true&theme=gruvbox_light)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIM2UL2ET&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIM2UL2ET&layout=compact&theme=gruvbox_light)
 
 ## Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YIM2UL2ET)](https://solved.ac/YIM2UL2ET)
