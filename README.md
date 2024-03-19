@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffaa69&height=200&animation=fadeIn&section=header&text=YIM2UL2ET&fontSize=70&fontColor=e4733e&fontAlignY=37" />✏️ Co
   
 ## Github Stats
 ![YIM2UL2ET's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIM2UL2ET&show_icons=true&theme=default)
