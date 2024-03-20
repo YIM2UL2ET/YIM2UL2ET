@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffaa69&height=200&animation=fadeIn&section=header&text=YIM2UL2ET&fontSize=70&fontColor=e4733e&fontAlignY=37&desc=Algorithm,%20Computer%20Science%20and%20more..&descSize=25)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fbf1c7&height=200&animation=fadeIn&section=header&text=YIM2UL2ET&fontSize=70&fontColor=c08931&fontAlignY=33&desc=Algorithm,%20Computer%20Science%20and%20more..&descAlignY=53&descSize=25)" />
   
 ## Github Stats
 ![YIM2UL2ET's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIM2UL2ET&show_icons=true&theme=gruvbox_light)
